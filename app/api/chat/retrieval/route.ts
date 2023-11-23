@@ -1,15 +1,12 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Message as VercelChatMessage, StreamingTextResponse } from "ai";
 
-import { createClient } from "@supabase/supabase-js";
-
 import { ChatOpenAI } from "langchain/chat_models/openai";
 import { PromptTemplate } from "langchain/prompts";
-import { SupabaseVectorStore } from "langchain/vectorstores/supabase";
+import { Chroma } from "langchain/vectorstores/chroma";
 import { Document } from "langchain/document";
 import {
   RunnableSequence,
-  RunnablePassthrough,
 } from "langchain/schema/runnable";
 import {
   BytesOutputParser,
@@ -49,8 +46,9 @@ const condenseQuestionPrompt = PromptTemplate.fromTemplate(
   CONDENSE_QUESTION_TEMPLATE,
 );
 
-const ANSWER_TEMPLATE = `You are an energetic talking puppy named Dana, and must answer all questions like a happy, talking dog would.
-Use lots of puns!
+const ANSWER_TEMPLATE = `You are a UI and visual designer with creative excellence, attention to detail, high design sensitivity and deep design experience. You must answer design-related questions based on design expertise and design descriptions. 
+
+If the question is not related to the search for design or design description, please reply "Sorry! I may not be able to handle your question. Please describe the design-related question in detail."
 
 Answer the question based only on the following context and chat history:
 <context>
@@ -79,20 +77,18 @@ export async function POST(req: NextRequest) {
     const currentMessageContent = messages[messages.length - 1].content;
 
     const model = new ChatOpenAI({
-      modelName: "gpt-3.5-turbo",
+      azureOpenAIApiDeploymentName: process.env.AZURE_OPENAI_API_DEPLOYMENT_NAME_GPT,
+      azureOpenAIApiVersion: process.env.AZURE_OPENAI_API_VERSION,
+      azureOpenAIApiKey: process.env.AZURE_OPENAI_API_KEY,
+      azureOpenAIApiInstanceName: process.env.AZURE_OPENAI_API_INSTANCE_NAME,
       temperature: 0.2
     });
-
-    const client = createClient(
-      process.env.SUPABASE_URL!,
-      process.env.SUPABASE_PRIVATE_KEY!,
-    );
-    const vectorstore = new SupabaseVectorStore(new OpenAIEmbeddings(), {
-      client,
-      tableName: "documents",
-      queryName: "match_documents",
+    const embeddings = new OpenAIEmbeddings({
+      azureOpenAIApiDeploymentName: process.env.AZURE_OPENAI_API_DEPLOYMENT_NAME_TEXT_EMBEDDING,
     });
-
+    const vectorStore = new Chroma(embeddings, {
+      collectionName: "design-knowledage-base",
+    });
     /**
      * We use LangChain Expression Language to compose two chains.
      * To learn more, see the guide here:
@@ -110,7 +106,7 @@ export async function POST(req: NextRequest) {
       resolveWithDocuments = resolve;
     });
 
-    const retriever = vectorstore.asRetriever({
+    const retriever = vectorStore.asRetriever({
       callbacks: [
         {
           handleRetrieverEnd(documents) {

@@ -1,0 +1,3135 @@
+{
+  "fileKey": "cF7HVup8C1SsZkrmRoNS4n",
+  "fileName": "[記憶膠囊 Design Scape] Credit",
+  "page": {
+    "id": "1:7566",
+    "type": "PAGE",
+    "name": "Credit uasge app for license",
+    "width": 1680,
+    "height": 1287,
+    "backgroundColor": "rgba(21, 21, 21, 1)",
+    "children": [
+      {
+        "id": "1:7567",
+        "name": "Nav",
+        "type": "FRAME",
+        "[top, left, width, height]": [
+          -1081,
+          -2599,
+          64,
+          1156
+        ],
+        "bg": [
+          "rgba(255, 255, 255, 1)"
+        ],
+        "bgColor": "rgba(0, 0, 0, 0)",
+        "fills": [
+          "rgba(255, 255, 255, 1)"
+        ],
+        "strokeWt": 1,
+        "children": [
+          {
+            "id": "1:7568",
+            "name": "bg",
+            "type": "RECTANGLE",
+            "[top, left, width, height]": [
+              -1081,
+              -2599,
+              64,
+              1156
+            ],
+            "fills": [
+              "rgba(0, 0, 0, 1)"
+            ],
+            "strokeWt": 1
+          },
+          {
+            "id": "1:7569",
+            "name": "Top Apps",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -1081,
+              -2599,
+              64,
+              519
+            ],
+            "layoutMode": "VERTICAL",
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "1:7570",
+                "name": "Logo",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -1081,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "1:7571",
+                    "name": "Logo / Tball",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -1069,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bg": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7571;1129:4439",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -1071.614501953125,
+                          -2582.12939453125,
+                          30.39990234375,
+                          29.3504638671875
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      },
+                      {
+                        "id": "I1:7571;1129:4440",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -1069,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "fills": [
+                          "rgba(237, 28, 36, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7572",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -1033,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7572;218:658",
+                    "name": "icon_workbench_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -1021,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7572;218:659",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -1019.9400634765625,
+                          -2579.03662109375,
+                          24.036865234375,
+                          21.9400634765625
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7573",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -985,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7573;218:661",
+                    "name": "icon_threatintelligence_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -973,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7573;1187:642",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -971,
+                          -2579,
+                          24,
+                          20
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7574",
+                "name": "Nav / App3 / 1. Normal",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -937,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7574;218:664",
+                    "name": "icon_workbench_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -925,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7574;218:665",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -924.9998168945312,
+                          -2578.999755859375,
+                          23.999755859375,
+                          23.99981689453125
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7575",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -889,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7575;218:667",
+                    "name": "icon_search_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -877,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7575;218:668",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -874.0062866210938,
+                          -2579,
+                          23.70703125,
+                          20.7132568359375
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7576",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -841,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7576;218:670",
+                    "name": "icon_responsemanagement_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -829,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7576;1187:668",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -828,
+                          -2578,
+                          22,
+                          22
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7577",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -793,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7577;236:11",
+                    "name": "icon_mxdr_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -781,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7577;464:210",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -778.5,
+                          -2579,
+                          23,
+                          19.5
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7578",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -745,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7578;565:30",
+                    "name": "icon_endpointinventory_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -733,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7578;565:33",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -731,
+                          -2578,
+                          23,
+                          21
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7579",
+                "name": "Group 11975",
+                "type": "GROUP",
+                "[top, left, width, height]": [
+                  -697,
+                  -2587,
+                  40,
+                  39
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "1:7580",
+                    "name": "Rectangle 446",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -697,
+                      -2587,
+                      40,
+                      39
+                    ],
+                    "fills": [
+                      "rgba(196, 196, 196, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "1:7581",
+                    "name": "Group 11974",
+                    "type": "GROUP",
+                    "[top, left, width, height]": [
+                      -688,
+                      -2578,
+                      24,
+                      19
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "1:7582",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -688,
+                          -2574,
+                          20,
+                          14
+                        ],
+                        "fills": [
+                          "rgba(138, 168, 168, 1)"
+                        ],
+                        "strokeWt": 1
+                      },
+                      {
+                        "id": "1:7583",
+                        "name": "",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -685,
+                          -2578,
+                          22,
+                          16
+                        ],
+                        "fills": [
+                          "rgba(138, 138, 138, 1)"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7584",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -658,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7584;613:0",
+                    "name": "icon_mobilesecurity_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -646,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bg": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7584;613:3",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -645,
+                          -2579,
+                          20,
+                          22
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1:7585",
+                "name": "App icon",
+                "type": "COMPONENT",
+                "[top, left, width, height]": [
+                  -610,
+                  -2599,
+                  64,
+                  48
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7585;218:673",
+                    "name": "icon_administration_normal_24px",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -598,
+                      -2579,
+                      24,
+                      24
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "opacity": 0.4699999988079071,
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7585;218:674",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "[top, left, width, height]": [
+                          -597,
+                          -2578,
+                          22,
+                          22
+                        ],
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1:7586",
+            "name": "Bottom Others",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -82,
+              -2599,
+              64,
+              157
+            ],
+            "layoutMode": "VERTICAL",
+            "bg": [
+              "rgba(0, 0, 0, 1)"
+            ],
+            "bgColor": "rgba(0, 0, 0, 1)",
+            "fills": [
+              "rgba(0, 0, 0, 1)"
+            ],
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "1:7587",
+                "name": "divider",
+                "type": "RECTANGLE",
+                "[top, left, width, height]": [
+                  -82,
+                  -2583,
+                  32,
+                  1
+                ],
+                "fills": [
+                  "rgba(33, 33, 33, 1)"
+                ],
+                "strokeWt": 1
+              },
+              {
+                "id": "1:7588",
+                "name": "Others",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -69,
+                  -2599,
+                  64,
+                  144
+                ],
+                "layoutMode": "VERTICAL",
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "1:7589",
+                    "name": "Nav / Allapp / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -69,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7589;218:676",
+                        "name": "icon_allapp_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -57,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7589;218:677",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -57,
+                              -2579,
+                              24,
+                              24
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1:7590",
+                    "name": "Nav / Help / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -21,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7590;218:679",
+                        "name": "icon_help_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -9,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7590;218:680",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -8,
+                              -2578,
+                              22,
+                              22.000003814697266
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1:7591",
+                    "name": "Nav / Expand / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      27,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7591;218:682",
+                        "name": "icon_expand_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          39,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7591;218:683",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              43,
+                              -2573.071044921875,
+                              6.845947265625,
+                              16
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          },
+                          {
+                            "id": "I1:7591;218:684",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              43,
+                              -2565.49609375,
+                              5.696044921875,
+                              16
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1:7592",
+            "name": "Nav",
+            "type": "COMPONENT",
+            "[top, left, width, height]": [
+              -1081,
+              -2599,
+              64,
+              1050
+            ],
+            "bg": [
+              "rgba(255, 255, 255, 1)"
+            ],
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "fills": [
+              "rgba(255, 255, 255, 1)"
+            ],
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "I1:7592;218:641",
+                "name": "bg",
+                "type": "RECTANGLE",
+                "[top, left, width, height]": [
+                  -1081,
+                  -2599,
+                  64,
+                  1050
+                ],
+                "fills": [
+                  "rgba(0, 0, 0, 1)"
+                ],
+                "strokeWt": 1
+              },
+              {
+                "id": "I1:7592;218:642",
+                "name": "Top Apps",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -1081,
+                  -2599,
+                  64,
+                  816
+                ],
+                "layoutMode": "VERTICAL",
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7592;218:643",
+                    "name": "Logo",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;1170:10",
+                        "name": "T-ball | Full color",
+                        "type": "COMPONENT",
+                        "[top, left, width, height]": [
+                          -1069,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;1170:10;5534:188",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -1069,
+                              -2579,
+                              24,
+                              24
+                            ],
+                            "fills": [
+                              "rgba(215, 25, 32, 1)"
+                            ],
+                            "strokeWt": 1
+                          },
+                          {
+                            "id": "I1:7592;1170:10;5534:189",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -1065.9033203125,
+                              -2577.283203125,
+                              20.637451171875,
+                              17.994873046875
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;1187:463",
+                    "name": "Nav / Securityposture / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -1033,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;1187:463;1340:13",
+                        "name": "icon_securityposture_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -1021,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;1187:463;1340:16",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -1019,
+                              -2579,
+                              24,
+                              20
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;1843:628",
+                    "name": "Nav / Earlywarning / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -985,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;1843:628;1813:7",
+                        "name": "icon_earlywarning_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -973,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;1843:628;1813:45",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -973,
+                              -2577,
+                              20.10009765625,
+                              24
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;2079:630",
+                    "name": "Nav / Identityandriskinsights / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -937,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bg": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;2079:630;1693:4",
+                        "name": "icon_Identityandriskinsights _normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -925,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bg": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;2079:630;1693:2",
+                            "name": "Group 6",
+                            "type": "GROUP",
+                            "[top, left, width, height]": [
+                              -925,
+                              -2578,
+                              22.5,
+                              24
+                            ],
+                            "bgColor": "rgba(0, 0, 0, 0)",
+                            "strokeWt": 1,
+                            "children": [
+                              {
+                                "id": "I1:7592;2079:630;1693:0",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "[top, left, width, height]": [
+                                  -925,
+                                  -2578,
+                                  14,
+                                  19.5
+                                ],
+                                "fills": [
+                                  "rgba(131, 131, 131, 1)"
+                                ],
+                                "strokeWt": 1
+                              },
+                              {
+                                "id": "I1:7592;2079:630;1693:1",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "[top, left, width, height]": [
+                                  -913,
+                                  -2574,
+                                  18.5,
+                                  12
+                                ],
+                                "fills": [
+                                  "rgba(131, 131, 131, 1)"
+                                ],
+                                "strokeWt": 1
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;2331:746",
+                    "name": "Nav / CloudApp / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -889,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;2331:746;2331:770",
+                        "name": "icon_unventory g_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -877,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;2331:746;2373:772",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -873,
+                              -2579,
+                              24,
+                              15
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;1353:6",
+                    "name": "Nav / Detectionmodel / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -841,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;1353:6;1187:404",
+                        "name": "icon_detectionmodel_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -829,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;1353:6;1550:4",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -827,
+                              -2578,
+                              22,
+                              19
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;218:646",
+                    "name": "Nav / Threatintelligence / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -793,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;218:646;218:661",
+                        "name": "icon_threatintelligence_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -781,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:646;1187:642",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -779,
+                              -2579,
+                              24,
+                              20
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;218:645",
+                    "name": "Nav / Workbench / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -745,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;218:645;218:658",
+                        "name": "icon_workbench_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -733,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:645;218:659",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -731.9400634765625,
+                              -2579.03662109375,
+                              24.036865234375,
+                              21.9400634765625
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;218:647",
+                    "name": "Nav / App3 / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -889,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "visible": false,
+                    "children": [
+                      {
+                        "id": "I1:7592;218:647;218:664",
+                        "name": "icon_workbench_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -877,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:647;218:665",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -876.9998168945312,
+                              -2578.999755859375,
+                              23.999755859375,
+                              23.99981689453125
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;1187:568",
+                    "name": "Nav / Observedattack / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -697,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;1187:568;988:411",
+                        "name": "icon_observedattack_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -685,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;1187:568;988:414",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -684,
+                              -2578,
+                              22,
+                              22
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;218:648",
+                    "name": "Nav / Search / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -649,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;218:648;218:667",
+                        "name": "icon_search_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -637,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:648;218:668",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -634.0062866210938,
+                              -2579,
+                              23.70703125,
+                              20.7132568359375
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;218:649",
+                    "name": "Nav / Response / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -601,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;218:649;218:670",
+                        "name": "icon_responsemanagement_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -589,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:649;1187:668",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -588,
+                              -2578,
+                              22,
+                              22
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;239:14",
+                    "name": "Nav / MXDR / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -553,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;239:14;236:11",
+                        "name": "icon_mxdr_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -541,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;239:14;464:210",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -538.5,
+                              -2579,
+                              23,
+                              19.5
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;565:109",
+                    "name": "Nav / Inventory / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -505,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;565:109;1827:1",
+                        "name": "icon_unventory_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -493,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;565:109;1827:19",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -493,
+                              -2578,
+                              22.5,
+                              24
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;613:74",
+                    "name": "Nav / Mobilesecurity / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -457,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;613:74;613:0",
+                        "name": "icon_mobilesecurity_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -445,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bg": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;613:74;613:3",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -444,
+                              -2579,
+                              20,
+                              22
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;2427:872",
+                    "name": "Nav / Securityassessment / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -409,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;2427:872;2427:818",
+                        "name": "icon_securityassessment_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -397,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;2427:872;2427:820",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -395,
+                              -2577.02490234375,
+                              21.824951171875,
+                              21.70001220703125
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;218:650",
+                    "name": "Nav / Accountmanagement / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -361,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;218:650;1351:19",
+                        "name": "icon_accountmanagement_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -349,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:650;1352:1",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -346.5,
+                              -2578,
+                              22,
+                              19.5
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7592;1353:23",
+                    "name": "Nav / Administration / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -313,
+                      -2599,
+                      64,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;1353:23;218:673",
+                        "name": "icon_administration_normal_24px",
+                        "type": "FRAME",
+                        "[top, left, width, height]": [
+                          -301,
+                          -2579,
+                          24,
+                          24
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "opacity": 0.4699999988079071,
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;1353:23;218:674",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "[top, left, width, height]": [
+                              -300,
+                              -2578,
+                              22,
+                              22
+                            ],
+                            "fills": [
+                              "rgba(255, 255, 255, 1)"
+                            ],
+                            "strokeWt": 1
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "I1:7592;218:651",
+                "name": "Bottom Others",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -236,
+                  -2599,
+                  64,
+                  205
+                ],
+                "layoutMode": "VERTICAL",
+                "bg": [
+                  "rgba(0, 0, 0, 1)"
+                ],
+                "bgColor": "rgba(0, 0, 0, 1)",
+                "fills": [
+                  "rgba(0, 0, 0, 1)"
+                ],
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7592;218:652",
+                    "name": "divider",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -236,
+                      -2583,
+                      32,
+                      1
+                    ],
+                    "fills": [
+                      "rgba(33, 33, 33, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7592;218:653",
+                    "name": "Others",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -223,
+                      -2599,
+                      64,
+                      192
+                    ],
+                    "layoutMode": "VERTICAL",
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7592;218:654",
+                        "name": "Nav / Allapp / 1. Normal",
+                        "type": "COMPONENT",
+                        "[top, left, width, height]": [
+                          -223,
+                          -2599,
+                          64,
+                          48
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:654;218:676",
+                            "name": "icon_allapp_normal_24px",
+                            "type": "FRAME",
+                            "[top, left, width, height]": [
+                              -211,
+                              -2579,
+                              24,
+                              24
+                            ],
+                            "bgColor": "rgba(0, 0, 0, 0)",
+                            "opacity": 0.4699999988079071,
+                            "strokeWt": 1,
+                            "children": [
+                              {
+                                "id": "I1:7592;218:654;218:677",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "[top, left, width, height]": [
+                                  -211,
+                                  -2579,
+                                  24,
+                                  24
+                                ],
+                                "fills": [
+                                  "rgba(255, 255, 255, 1)"
+                                ],
+                                "strokeWt": 1
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1:7592;218:655",
+                        "name": "Nav / Help / 1. Normal",
+                        "type": "COMPONENT",
+                        "[top, left, width, height]": [
+                          -175,
+                          -2599,
+                          64,
+                          48
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;218:655;218:679",
+                            "name": "icon_help_normal_24px",
+                            "type": "FRAME",
+                            "[top, left, width, height]": [
+                              -163,
+                              -2579,
+                              24,
+                              24
+                            ],
+                            "bgColor": "rgba(0, 0, 0, 0)",
+                            "opacity": 0.4699999988079071,
+                            "strokeWt": 1,
+                            "children": [
+                              {
+                                "id": "I1:7592;218:655;218:680",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "[top, left, width, height]": [
+                                  -162,
+                                  -2578,
+                                  22,
+                                  22
+                                ],
+                                "fills": [
+                                  "rgba(255, 255, 255, 1)"
+                                ],
+                                "strokeWt": 1
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1:7592;1358:0",
+                        "name": "Nav / Resourcecenter / 1. Normal",
+                        "type": "COMPONENT",
+                        "[top, left, width, height]": [
+                          -127,
+                          -2599,
+                          64,
+                          48
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;1358:0;1355:611",
+                            "name": "icon_resourcecenter_normal_24px",
+                            "type": "FRAME",
+                            "[top, left, width, height]": [
+                              -115,
+                              -2579,
+                              24,
+                              24
+                            ],
+                            "bgColor": "rgba(0, 0, 0, 0)",
+                            "opacity": 0.4699999988079071,
+                            "strokeWt": 1,
+                            "children": [
+                              {
+                                "id": "I1:7592;1358:0;1355:614",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "[top, left, width, height]": [
+                                  -114,
+                                  -2579,
+                                  24,
+                                  22
+                                ],
+                                "fills": [
+                                  "rgba(255, 255, 255, 1)"
+                                ],
+                                "strokeWt": 1
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1:7592;239:402",
+                        "name": "Nav / Expand / 1. Normal",
+                        "type": "COMPONENT",
+                        "[top, left, width, height]": [
+                          -79,
+                          -2599,
+                          64,
+                          48
+                        ],
+                        "bgColor": "rgba(0, 0, 0, 0)",
+                        "strokeWt": 1,
+                        "children": [
+                          {
+                            "id": "I1:7592;239:402;218:682",
+                            "name": "icon_expand_normal_24px",
+                            "type": "FRAME",
+                            "[top, left, width, height]": [
+                              -67,
+                              -2579,
+                              24,
+                              24
+                            ],
+                            "bgColor": "rgba(0, 0, 0, 0)",
+                            "opacity": 0.4699999988079071,
+                            "strokeWt": 1,
+                            "children": [
+                              {
+                                "id": "I1:7592;239:402;218:683",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "[top, left, width, height]": [
+                                  -63,
+                                  -2573.071044921875,
+                                  6.845947265625,
+                                  16
+                                ],
+                                "fills": [
+                                  "rgba(255, 255, 255, 1)"
+                                ],
+                                "strokeWt": 1
+                              },
+                              {
+                                "id": "I1:7592;239:402;218:684",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "[top, left, width, height]": [
+                                  -63,
+                                  -2565.49609375,
+                                  5.696044921875,
+                                  16
+                                ],
+                                "fills": [
+                                  "rgba(255, 255, 255, 1)"
+                                ],
+                                "strokeWt": 1
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1:7593",
+        "name": "Frame 13182",
+        "type": "COMPONENT",
+        "[top, left, width, height]": [
+          -992,
+          -2503,
+          960,
+          878
+        ],
+        "layoutMode": "VERTICAL",
+        "bgColor": "rgba(0, 0, 0, 0)",
+        "strokeWt": 1,
+        "children": [
+          {
+            "id": "I1:7593;19834:154691",
+            "name": "Frame 13181",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -992,
+              -2503,
+              737,
+              70
+            ],
+            "bg": [
+              "rgba(255, 255, 255, 1)"
+            ],
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "fills": [
+              "rgba(255, 255, 255, 1)"
+            ],
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "I1:7593;19834:154692",
+                "name": "What is Credit?",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  -992,
+                  -2503,
+                  184,
+                  32
+                ],
+                "chars": "What are credits?",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              },
+              {
+                "id": "I1:7593;19834:154693",
+                "name": "A flexible licensing model for a more complete Vision One experience",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  -954,
+                  -2503,
+                  810,
+                  28
+                ],
+                "chars": "Credits provide a flexible licensing model for a more complete Trend Vision One experience.",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              }
+            ]
+          },
+          {
+            "id": "I1:7593;19834:154694",
+            "name": "Group 12865",
+            "type": "GROUP",
+            "[top, left, width, height]": [
+              -895,
+              -2503,
+              960,
+              556
+            ],
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "I1:7593;19834:154695",
+                "name": "credit placeholder 1",
+                "type": "RECTANGLE",
+                "[top, left, width, height]": [
+                  -895,
+                  -2503,
+                  960,
+                  539.8792724609375
+                ],
+                "fills": [
+                  "IMAGE"
+                ],
+                "strokeWt": 1
+              },
+              {
+                "id": "I1:7593;19834:154696",
+                "name": "image 22",
+                "type": "RECTANGLE",
+                "[top, left, width, height]": [
+                  -881,
+                  -2503,
+                  960,
+                  528
+                ],
+                "fills": [
+                  "IMAGE"
+                ],
+                "strokeWt": 1
+              },
+              {
+                "id": "I1:7593;19834:154697",
+                "name": "image 21",
+                "type": "RECTANGLE",
+                "[top, left, width, height]": [
+                  -404,
+                  -2503,
+                  960,
+                  65
+                ],
+                "fills": [
+                  "IMAGE"
+                ],
+                "strokeWt": 1
+              }
+            ]
+          },
+          {
+            "id": "I1:7593;19834:154698",
+            "name": "A single SKU with flexible term durations for all of Trend Micro Vision One consolidates the purchasing process. Simplifiedlicensing entitlementleverages a single licensing activation process. Say goodbye to individual license keys. Implementationflexibilityby allowing customers to apply andadjust creditallocations on-demand. No more fixed license counts,no more underutilized licenses, andeasier broader adoption. XDR standalone purchase optionlowers the barrier of entry forsecurityorganizations interested inTrend Micro Vision One without a rip and replace proposition, particularly for endpoint protection  Contact sale for more information More details about Credit-Based Licensing, see the online help.",
+            "type": "TEXT",
+            "[top, left, width, height]": [
+              -312,
+              -2503,
+              960,
+              198
+            ],
+            "chars": "A single SKU with flexible term durations for all of Trend Vision One consolidates the purchasing process.\nSimplified licensing entitlements leverage a single license activation process. Say goodbye to individual license keys.\nImplementation flexibility allows you to adjust credit allocations on-demand. No more fixed license counts. No more underutilized licenses. Easier, broader adoption.\nXDR standalone purchase options lower the barrier of entry for security organizations interested in Trend Vision One without a ‘rip and replace’ proposition, particularly for endpoint protection.  Contact our sales team for more information. To learn more about credit-based licensing, see the online help.",
+            "fills": [
+              "rgba(255, 255, 255, 1)"
+            ],
+            "strokeWt": 1
+          }
+        ]
+      },
+      {
+        "id": "1:7594",
+        "name": "Banner / Product bar",
+        "type": "FRAME",
+        "[top, left, width, height]": [
+          -1081,
+          -2535,
+          1616,
+          48
+        ],
+        "bg": [
+          "rgba(255, 255, 255, 1)"
+        ],
+        "bgColor": "rgba(0, 0, 0, 0)",
+        "fills": [
+          "rgba(255, 255, 255, 1)"
+        ],
+        "strokeWt": 1,
+        "children": [
+          {
+            "id": "1:7595",
+            "name": "App bar",
+            "type": "COMPONENT",
+            "[top, left, width, height]": [
+              -1081,
+              -2535,
+              1616,
+              48
+            ],
+            "bg": [
+              "rgba(33, 33, 33, 1)"
+            ],
+            "bgColor": "rgba(33, 33, 33, 1)",
+            "fills": [
+              "rgba(33, 33, 33, 1)"
+            ],
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "I1:7595;218:618",
+                "name": "Name",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -1071,
+                  -2519,
+                  182,
+                  28
+                ],
+                "layoutMode": "HORIZONTAL",
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7595;2069:4",
+                    "name": "Trend Micro Vision One™",
+                    "type": "TEXT",
+                    "[top, left, width, height]": [
+                      -1071,
+                      -2519,
+                      169,
+                      28
+                    ],
+                    "chars": "Trend Vision One™",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7595;218:620",
+                    "name": "divider",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -1065,
+                      -2338,
+                      1,
+                      16
+                    ],
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7595;218:621",
+                    "name": "Endpoint Security Policies",
+                    "type": "TEXT",
+                    "[top, left, width, height]": [
+                      -1067,
+                      -2271,
+                      148,
+                      20
+                    ],
+                    "chars": "Endpoint Security Policy",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1,
+                    "visible": false
+                  }
+                ]
+              },
+              {
+                "id": "I1:7595;218:622",
+                "name": "Right Item",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -1081,
+                  -1225,
+                  306,
+                  48
+                ],
+                "layoutMode": "HORIZONTAL",
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7595;218:623",
+                    "name": ".Banner / Time",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -1225,
+                      69,
+                      48
+                    ],
+                    "layoutMode": "HORIZONTAL",
+                    "padding": [
+                      14,
+                      12,
+                      14,
+                      12
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7595;218:623;218:738",
+                        "name": "",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -1067,
+                          -1213,
+                          16,
+                          20
+                        ],
+                        "chars": "",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      },
+                      {
+                        "id": "I1:7595;218:623;218:739",
+                        "name": "UTC",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -1067,
+                          -1193,
+                          25,
+                          20
+                        ],
+                        "chars": "UTC",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7595;863:16",
+                    "name": "divider",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -1156,
+                      1,
+                      48
+                    ],
+                    "fills": [
+                      "rgba(21, 21, 21, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7595;218:625",
+                    "name": ".notification",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -1155,
+                      48,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7595;218:625;218:631",
+                        "name": "",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -1065,
+                          -1139,
+                          16,
+                          16
+                        ],
+                        "chars": "",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7595;863:15",
+                    "name": "divider",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -1107,
+                      1,
+                      48
+                    ],
+                    "fills": [
+                      "rgba(21, 21, 21, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7595;863:12",
+                    "name": ".Banner / Company",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -1106,
+                      138,
+                      48
+                    ],
+                    "layoutMode": "HORIZONTAL",
+                    "padding": [
+                      14,
+                      12,
+                      14,
+                      12
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7595;863:12;863:9",
+                        "name": "",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -1065,
+                          -1094,
+                          16,
+                          16
+                        ],
+                        "chars": "",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      },
+                      {
+                        "id": "I1:7595;863:12;863:10",
+                        "name": "Trend Micro",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -1067,
+                          -1074,
+                          74,
+                          20
+                        ],
+                        "chars": "Trend Micro",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      },
+                      {
+                        "id": "I1:7595;863:12;866:0",
+                        "name": "",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -1065,
+                          -996,
+                          16,
+                          16
+                        ],
+                        "chars": "",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1,
+                        "visible": false
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1:7595;218:626",
+                    "name": "divider",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -968,
+                      1,
+                      48
+                    ],
+                    "fills": [
+                      "rgba(21, 21, 21, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7595;218:627",
+                    "name": ".Banner / Account / 1. Normal",
+                    "type": "COMPONENT",
+                    "[top, left, width, height]": [
+                      -1081,
+                      -967,
+                      48,
+                      48
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "I1:7595;218:627;218:629",
+                        "name": "Photo",
+                        "type": "ELLIPSE",
+                        "[top, left, width, height]": [
+                          -1069,
+                          -955,
+                          24,
+                          24
+                        ],
+                        "fills": [
+                          "IMAGE"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1:7596",
+            "name": "Banner Name",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -1068,
+              -2286,
+              241,
+              22
+            ],
+            "layoutMode": "HORIZONTAL",
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "1:7597",
+                "name": "%Name%",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  -1067,
+                  -2286,
+                  80,
+                  20
+                ],
+                "chars": "Credit Usage",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              },
+              {
+                "id": "1:7598",
+                "name": "Layer 2",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -1068,
+                  -2206,
+                  161,
+                  22
+                ],
+                "layoutMode": "HORIZONTAL",
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "1:7599",
+                    "name": ">",
+                    "type": "TEXT",
+                    "[top, left, width, height]": [
+                      -1068,
+                      -2206,
+                      19,
+                      22
+                    ],
+                    "chars": "›",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "1:7600",
+                    "name": "%Name2%",
+                    "type": "TEXT",
+                    "[top, left, width, height]": [
+                      -1067,
+                      -2187,
+                      142,
+                      20
+                    ],
+                    "chars": "Credit Resource Center",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1:7601",
+        "name": "Frame 13179",
+        "type": "COMPONENT",
+        "[top, left, width, height]": [
+          -974,
+          -1503.2191162109375,
+          560,
+          1106
+        ],
+        "layoutMode": "VERTICAL",
+        "padding": [
+          16,
+          32,
+          32,
+          32
+        ],
+        "bg": [
+          "rgba(255, 255, 255, 1)"
+        ],
+        "bgColor": "rgba(255, 255, 255, 0.05000000074505806)",
+        "fills": [
+          "rgba(255, 255, 255, 1)"
+        ],
+        "strokeWt": 1,
+        "children": [
+          {
+            "id": "I1:7601;20764:159547",
+            "name": "Credits FAQ Videos",
+            "type": "TEXT",
+            "[top, left, width, height]": [
+              -958,
+              -1471.2191162109375,
+              412,
+              25
+            ],
+            "chars": "Credits FAQ Videos",
+            "fills": [
+              "rgba(255, 255, 255, 1)"
+            ],
+            "strokeWt": 1
+          },
+          {
+            "id": "I1:7601;20764:159548",
+            "name": "What is credit?",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -917,
+              -1471.2191162109375,
+              496,
+              320
+            ],
+            "bg": [
+              "rgba(48, 48, 48, 1)"
+            ],
+            "bgColor": "rgba(48, 48, 48, 1)",
+            "fills": [
+              "rgba(48, 48, 48, 1)"
+            ],
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "I1:7601;20764:159549",
+                "name": "Frame 13178",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -893,
+                  -1447.2191162109375,
+                  448,
+                  214
+                ],
+                "bg": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7601;20764:159550",
+                    "name": "image 22",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -893,
+                      -1446.2191162109375,
+                      447,
+                      256
+                    ],
+                    "fills": [
+                      "IMAGE"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7601;20764:159551",
+                    "name": "duration",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -721,
+                      -1059.2191162109375,
+                      48,
+                      30
+                    ],
+                    "bg": [
+                      "rgba(0, 0, 0, 1)"
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 1)",
+                    "fills": [
+                      "rgba(0, 0, 0, 1)"
+                    ],
+                    "strokeWt": 1,
+                    "cornerRadius": 50,
+                    "children": [
+                      {
+                        "id": "I1:7601;20764:159552",
+                        "name": "1:48",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -721,
+                          -1052.2191162109375,
+                          34,
+                          30
+                        ],
+                        "chars": "1:48",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "I1:7601;20764:159553",
+                "name": "What are credits? Credits are the universal licensing unit used to purchase XDR sensors and supported features.",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  -663,
+                  -1447.2191162109375,
+                  448,
+                  62
+                ],
+                "chars": "What are credits?\nCredits are the universal licensing unit used to purchase XDR sensors and supported features.",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              }
+            ]
+          },
+          {
+            "id": "I1:7601;20764:159554",
+            "name": "Video",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -581,
+              -1471.2191162109375,
+              496,
+              340
+            ],
+            "bg": [
+              "rgba(48, 48, 48, 1)"
+            ],
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "fills": [
+              "rgba(48, 48, 48, 1)"
+            ],
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "I1:7601;20764:159555",
+                "name": "Frame 13178",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -557,
+                  -1447.2191162109375,
+                  448,
+                  214
+                ],
+                "bg": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7601;20764:159556",
+                    "name": "image 22",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -557,
+                      -1447.2191162109375,
+                      450,
+                      257
+                    ],
+                    "fills": [
+                      "IMAGE"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7601;20764:159557",
+                    "name": "duration",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -385,
+                      -1059.2191162109375,
+                      48,
+                      30
+                    ],
+                    "bg": [
+                      "rgba(0, 0, 0, 1)"
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 1)",
+                    "fills": [
+                      "rgba(0, 0, 0, 1)"
+                    ],
+                    "strokeWt": 1,
+                    "cornerRadius": 50,
+                    "children": [
+                      {
+                        "id": "I1:7601;20764:159558",
+                        "name": "1:27",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -385,
+                          -1052.2191162109375,
+                          34,
+                          30
+                        ],
+                        "chars": "1:27",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "I1:7601;20764:159559",
+                "name": "How do credits impact my existing licenses? Credits offer the exact same benefits as a standard XDR subscription but with added flexibility.",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  -327,
+                  -1447.2191162109375,
+                  448,
+                  62
+                ],
+                "chars": "How do credits impact my existing licenses? Credits offer the exact same benefits as a standard XDR subscription but with added flexibility.",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              }
+            ]
+          },
+          {
+            "id": "I1:7601;20764:159560",
+            "name": "Video",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -225,
+              -1471.2191162109375,
+              498,
+              357
+            ],
+            "bg": [
+              "rgba(48, 48, 48, 1)"
+            ],
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "fills": [
+              "rgba(48, 48, 48, 1)"
+            ],
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "I1:7601;20764:159561",
+                "name": "Frame 13178",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -201,
+                  -1447.2191162109375,
+                  448,
+                  214
+                ],
+                "bg": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "I1:7601;20764:159562",
+                    "name": "image 22",
+                    "type": "RECTANGLE",
+                    "[top, left, width, height]": [
+                      -201,
+                      -1447.2191162109375,
+                      449,
+                      256
+                    ],
+                    "fills": [
+                      "IMAGE"
+                    ],
+                    "strokeWt": 1
+                  },
+                  {
+                    "id": "I1:7601;20764:159563",
+                    "name": "duration",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -29,
+                      -1059.2191162109375,
+                      48,
+                      30
+                    ],
+                    "bg": [
+                      "rgba(0, 0, 0, 1)"
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 1)",
+                    "fills": [
+                      "rgba(0, 0, 0, 1)"
+                    ],
+                    "strokeWt": 1,
+                    "cornerRadius": 50,
+                    "children": [
+                      {
+                        "id": "I1:7601;20764:159564",
+                        "name": "1:54",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -29,
+                          -1052.2191162109375,
+                          34,
+                          30
+                        ],
+                        "chars": "1:54",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "I1:7601;20764:159565",
+                "name": "How can I use credits to deploy features in Trend Micro Vision One? Enable the XDR sensors and supported features that you require directly from your console. Credits are applied automatically and a live summary can be viewed at any time in the Credit Usage app.",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  28,
+                  -1447.2191162109375,
+                  448,
+                  82
+                ],
+                "chars": "How can I use credits to deploy features in Trend Vision One? Enable the XDR sensors and supported features that you require directly from your console. Credits are applied automatically and a live summary can be viewed at any time in the Credit Usage app.",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1:7602",
+        "name": "Frame 236",
+        "type": "FRAME",
+        "[top, left, width, height]": [
+          -1033,
+          -2535,
+          1283,
+          34
+        ],
+        "bg": [
+          "rgba(21, 21, 21, 1)"
+        ],
+        "bgColor": "rgba(21, 21, 21, 1)",
+        "fills": [
+          "rgba(21, 21, 21, 1)"
+        ],
+        "strokeWt": 1,
+        "children": [
+          {
+            "id": "1:7603",
+            "name": "Layer 2",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -1026,
+              -2511,
+              49,
+              20
+            ],
+            "layoutMode": "HORIZONTAL",
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "strokeWt": 1,
+            "children": [
+              {
+                "id": "1:7604",
+                "name": ">",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  -1024,
+                  -2511,
+                  16,
+                  16
+                ],
+                "chars": "",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              },
+              {
+                "id": "1:7605",
+                "name": "%Name2%",
+                "type": "TEXT",
+                "[top, left, width, height]": [
+                  -1026,
+                  -2491,
+                  29,
+                  20
+                ],
+                "chars": "Back",
+                "fills": [
+                  "rgba(255, 255, 255, 1)"
+                ],
+                "strokeWt": 1
+              }
+            ]
+          },
+          {
+            "id": "1:7606",
+            "name": "Type=Secondary, Content=Text + Icon-l, State=Enabled, Size=md (default), Shape=Square",
+            "type": "FRAME",
+            "[top, left, width, height]": [
+              -1021,
+              -1100,
+              157,
+              32
+            ],
+            "layoutMode": "VERTICAL",
+            "bgColor": "rgba(0, 0, 0, 0)",
+            "strokeWt": 1,
+            "cornerRadius": 3,
+            "children": [
+              {
+                "id": "1:7607",
+                "name": "Content",
+                "type": "FRAME",
+                "[top, left, width, height]": [
+                  -1021,
+                  -1100,
+                  157,
+                  32
+                ],
+                "layoutMode": "HORIZONTAL",
+                "padding": [
+                  6,
+                  12,
+                  6,
+                  12
+                ],
+                "bgColor": "rgba(0, 0, 0, 0)",
+                "strokeWt": 1,
+                "children": [
+                  {
+                    "id": "1:7608",
+                    "name": "Icon container",
+                    "type": "FRAME",
+                    "[top, left, width, height]": [
+                      -1015,
+                      -1088,
+                      16,
+                      20
+                    ],
+                    "bgColor": "rgba(0, 0, 0, 0)",
+                    "strokeWt": 1,
+                    "children": [
+                      {
+                        "id": "1:7609",
+                        "name": "TMicon",
+                        "type": "TEXT",
+                        "[top, left, width, height]": [
+                          -1013,
+                          -1088,
+                          16,
+                          16
+                        ],
+                        "chars": "",
+                        "fills": [
+                          "rgba(255, 255, 255, 1)"
+                        ],
+                        "strokeWt": 1
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1:7610",
+                    "name": "Text label",
+                    "type": "TEXT",
+                    "[top, left, width, height]": [
+                      -1015,
+                      -1064,
+                      109,
+                      20
+                    ],
+                    "chars": "Configure Setting",
+                    "fills": [
+                      "rgba(255, 255, 255, 1)"
+                    ],
+                    "strokeWt": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
